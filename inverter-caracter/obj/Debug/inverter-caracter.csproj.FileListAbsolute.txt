@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\bin\Debug\inverter-caracter.exe.config
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\bin\Debug\inverter-caracter.exe
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\bin\Debug\inverter-caracter.pdb
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\obj\Debug\inverter-caracter.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\obj\Debug\inverter-caracter.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\obj\Debug\inverter-caracter.exe
+C:\Users\gusta\source\repos\inverter-caracter\inverter-caracter\obj\Debug\inverter-caracter.pdb
